@@ -201,6 +201,17 @@ a, .btn {
 }
 
 /* Hero Section */
+.hero-text .section-title{
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+  font-size: var(--title-size);
+  margin-bottom: 18px;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  line-height: 1.1;
+}
+
 .hero {
   padding-bottom: 36px;
   background: transparent;
